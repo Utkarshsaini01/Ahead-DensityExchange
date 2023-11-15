@@ -4,6 +4,9 @@ import EQbeats from '../components/EQbeats';
 import DoesThisSound from '../components/DoesThisSound';
 import MeetAhead from '../components/MeetAhead';
 import SelfImprovement from '../components/SelfImprovement';
+import BeBest from '../components/BeBest';
+import EverWondered from '../components/EverWondered';
+import BeforeGetStarted from '../components/BeforeGetStarted';
 
 export default function Home() {
   return (
@@ -14,6 +17,9 @@ export default function Home() {
       <DoesThisSound />
       <MeetAhead />
       <SelfImprovement />
+      <BeBest />
+      <EverWondered />
+      <BeforeGetStarted />
       </>
   );
 }
