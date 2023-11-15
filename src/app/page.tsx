@@ -7,6 +7,8 @@ import SelfImprovement from '../components/SelfImprovement';
 import BeBest from '../components/BeBest';
 import EverWondered from '../components/EverWondered';
 import BeforeGetStarted from '../components/BeforeGetStarted';
+import WorkWithUs from '../components/WorkWithUs';
+import Vacancies from '../components/Vacancies';
 
 export default function Home() {
   return (
@@ -20,6 +22,8 @@ export default function Home() {
       <BeBest />
       <EverWondered />
       <BeforeGetStarted />
+      <WorkWithUs />
+      <Vacancies />
       </>
   );
 }
