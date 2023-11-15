@@ -9,6 +9,7 @@ import EverWondered from '../components/EverWondered';
 import BeforeGetStarted from '../components/BeforeGetStarted';
 import WorkWithUs from '../components/WorkWithUs';
 import Vacancies from '../components/Vacancies';
+import Footer from '../components/Footer';
 
 export default function Home() {
   return (
@@ -24,6 +25,7 @@ export default function Home() {
       <BeforeGetStarted />
       <WorkWithUs />
       <Vacancies />
+      <Footer />
       </>
   );
 }
