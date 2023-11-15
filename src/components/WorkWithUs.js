@@ -54,8 +54,8 @@ const WorkWithUs = () => {
                 <h2 className="font-bold">About</h2>
                 <p className="font-normal text-gray-500">
                   At ahead our goal is to make self-improvement fun
-                  and lasting. We know there's a way how to make it 
-                  work. And that's what aHead is all about!
+                  and lasting. We know there&apos;s a way how to make it 
+                  work. And that&apos;s what aHead is all about!
                 </p>
               </div>
 
